@@ -1,20 +1,5 @@
 package position
 
-const (
-	WhitePawns = iota
-	BlackPawns
-	WhiteKnights
-	BlackKnights
-	WhiteBishops
-	BlackBishops
-	WhiteRooks
-	BlackRooks
-	WhiteQueens
-	BlackQueens
-	WhiteKings
-	BlackKings
-)
-
 // Position represents a chess position.
 // A position can be used to generate a list of legal moves or validate a move is legal.
 type Position struct {
