@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/schafer14/chess/encoders/fen"
-	"github.com/schafer14/chess/position"
+	"github.com/schafer14/chess-engine/encoders/fen"
+	"github.com/schafer14/chess-engine/position"
 )
 
 // Success and failure markers.

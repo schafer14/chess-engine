@@ -1,4 +1,4 @@
-module github.com/schafer14/chess
+module github.com/schafer14/chess-engine
 
 go 1.16
 

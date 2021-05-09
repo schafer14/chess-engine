@@ -4,7 +4,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/schafer14/chess/position"
+	"github.com/schafer14/chess-engine/position"
 )
 
 // Success and failure markers.

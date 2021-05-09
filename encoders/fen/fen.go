@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/schafer14/chess/position"
+	"github.com/schafer14/chess-engine/position"
 )
 
 var (

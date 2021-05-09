@@ -3,7 +3,7 @@ package position_test
 import (
 	"testing"
 
-	"github.com/schafer14/chess/position"
+	"github.com/schafer14/chess-engine/position"
 )
 
 func BenchmarkPosition(b *testing.B) {
