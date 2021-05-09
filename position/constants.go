@@ -1,21 +1,6 @@
 package position
 
 const (
-	WhitePawns = iota
-	BlackPawns
-	WhiteKnights
-	BlackKnights
-	WhiteBishops
-	BlackBishops
-	WhiteRooks
-	BlackRooks
-	WhiteQueens
-	BlackQueens
-	WhiteKings
-	BlackKings
-)
-
-const (
 	A1 uint64 = 1 << iota
 	B1
 	C1
